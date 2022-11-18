@@ -1,0 +1,50 @@
+{
+  "uid" : "65468fe34dcce33d",
+  "name" : "Add multiple products to Cart test",
+  "fullName" : ".Add multiple products to Cart test",
+  "historyId" : "96c5a0d66d586ee173e1a26a2144d834",
+  "time" : {
+    "start" : 1668773684421,
+    "stop" : 1668773695059,
+    "duration" : 10638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.\n                    at Context.eval (https://www.saucedemo.com/__cypress/tests?p=cypress\\integration\\Tests\\03_AddToCartTest.js:165:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "Add multiple products to Cart test"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65468fe34dcce33d.json",
+  "parameterValues" : [ ]
+}

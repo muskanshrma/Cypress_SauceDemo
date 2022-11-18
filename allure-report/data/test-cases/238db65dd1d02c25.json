@@ -1,0 +1,48 @@
+{
+  "uid" : "238db65dd1d02c25",
+  "name" : "Login test",
+  "fullName" : ".Login test",
+  "historyId" : "50c1ade44351b65275a7a86c514732d0",
+  "time" : {
+    "start" : 1668773664583,
+    "stop" : 1668773668985,
+    "duration" : 4402
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "Login test"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "238db65dd1d02c25.json",
+  "parameterValues" : [ ]
+}

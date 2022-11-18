@@ -1,0 +1,48 @@
+{
+  "uid" : "c26904b8eece2663",
+  "name" : "Sort and Filter Products",
+  "fullName" : ".Sort and Filter Products",
+  "historyId" : "89bc2ad9c9a7370383cc3fc544960d86",
+  "time" : {
+    "start" : 1668773254591,
+    "stop" : 1668773258129,
+    "duration" : 3538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "Sort and Filter Products"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c26904b8eece2663.json",
+  "parameterValues" : [ ]
+}

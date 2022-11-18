@@ -1,0 +1,48 @@
+{
+  "uid" : "d94c2c5e74e731b1",
+  "name" : "GET",
+  "fullName" : "Validate API response.GET",
+  "historyId" : "4ea9348c4d3a5eef713ddaa2365ada90",
+  "time" : {
+    "start" : 1668773411179,
+    "stop" : 1668773411343,
+    "duration" : 164
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validate API response"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate API response"
+  }, {
+    "name" : "testMethod",
+    "value" : "GET"
+  }, {
+    "name" : "package",
+    "value" : "Validate API response"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d94c2c5e74e731b1.json",
+  "parameterValues" : [ ]
+}

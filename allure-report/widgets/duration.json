@@ -1,0 +1,51 @@
+[ {
+  "uid" : "25fc99bbb446d183",
+  "name" : "Add multiple products to Cart and checkout",
+  "time" : {
+    "start" : 1668774378708,
+    "stop" : 1668774389138,
+    "duration" : 10430
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8b2d9e897be38a7",
+  "name" : "Sort and Filter Products",
+  "time" : {
+    "start" : 1668774353992,
+    "stop" : 1668774357339,
+    "duration" : 3347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e59acf1b5d7df80",
+  "name" : "GET",
+  "time" : {
+    "start" : 1668774394832,
+    "stop" : 1668774394980,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fba1f497551ac43",
+  "name" : "Login test",
+  "time" : {
+    "start" : 1668774342852,
+    "stop" : 1668774347290,
+    "duration" : 4438
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e30a9b80fa5e69aa",
+  "name" : "Add multiple products to Cart test",
+  "time" : {
+    "start" : 1668774362234,
+    "stop" : 1668774372924,
+    "duration" : 10690
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

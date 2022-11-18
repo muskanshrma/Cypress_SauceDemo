@@ -1,0 +1,106 @@
+{
+  "uid" : "e8b2d9e897be38a7",
+  "name" : "Sort and Filter Products",
+  "fullName" : ".Sort and Filter Products",
+  "historyId" : "89bc2ad9c9a7370383cc3fc544960d86",
+  "time" : {
+    "start" : 1668774353992,
+    "stop" : 1668774357339,
+    "duration" : 3347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "Sort and Filter Products"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9f512ff56adab65c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774184286,
+        "stop" : 1668774188690,
+        "duration" : 4404
+      }
+    }, {
+      "uid" : "4b5e64f4af2befed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774045745,
+        "stop" : 1668774049086,
+        "duration" : 3341
+      }
+    }, {
+      "uid" : "1851ea7d29400ab2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773826507,
+        "stop" : 1668773830097,
+        "duration" : 3590
+      }
+    }, {
+      "uid" : "2df84e6b7e801ca1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773675948,
+        "stop" : 1668773679451,
+        "duration" : 3503
+      }
+    }, {
+      "uid" : "6db3c31e655126ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773553172,
+        "stop" : 1668773556486,
+        "duration" : 3314
+      }
+    }, {
+      "uid" : "cde7123367f0b9a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773382285,
+        "stop" : 1668773385720,
+        "duration" : 3435
+      }
+    }, {
+      "uid" : "c26904b8eece2663",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773254591,
+        "stop" : 1668773258129,
+        "duration" : 3538
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8b2d9e897be38a7.json",
+  "parameterValues" : [ ]
+}

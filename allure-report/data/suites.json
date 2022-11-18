@@ -1,0 +1,98 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "",
+    "children" : [ {
+      "name" : "Login test",
+      "uid" : "fba1f497551ac43",
+      "parentUid" : "48d85075effc392b4b30cf2001bf14e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774342852,
+        "stop" : 1668774347290,
+        "duration" : 4438
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Sort and Filter Products",
+      "uid" : "e8b2d9e897be38a7",
+      "parentUid" : "48d85075effc392b4b30cf2001bf14e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774353992,
+        "stop" : 1668774357339,
+        "duration" : 3347
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add multiple products to Cart test",
+      "uid" : "e30a9b80fa5e69aa",
+      "parentUid" : "48d85075effc392b4b30cf2001bf14e6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1668774362234,
+        "stop" : 1668774372924,
+        "duration" : 10690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add multiple products to Cart and checkout",
+      "uid" : "25fc99bbb446d183",
+      "parentUid" : "48d85075effc392b4b30cf2001bf14e6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1668774378708,
+        "stop" : 1668774389138,
+        "duration" : 10430
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "48d85075effc392b4b30cf2001bf14e6"
+  }, {
+    "name" : "Validate API response",
+    "children" : [ {
+      "name" : "GET",
+      "uid" : "2e59acf1b5d7df80",
+      "parentUid" : "4133d782551887af87604ee6b6efdee6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774394832,
+        "stop" : 1668774394980,
+        "duration" : 148
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4133d782551887af87604ee6b6efdee6"
+  } ]
+}

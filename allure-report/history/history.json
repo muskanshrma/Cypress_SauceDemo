@@ -1,0 +1,99 @@
+{
+  "50c1ade44351b65275a7a86c514732d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fba1f497551ac43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774342852,
+        "stop" : 1668774347290,
+        "duration" : 4438
+      }
+    } ]
+  },
+  "96c5a0d66d586ee173e1a26a2144d834" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e30a9b80fa5e69aa",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "time" : {
+        "start" : 1668774362234,
+        "stop" : 1668774372924,
+        "duration" : 10690
+      }
+    } ]
+  },
+  "4ea9348c4d3a5eef713ddaa2365ada90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e59acf1b5d7df80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774394832,
+        "stop" : 1668774394980,
+        "duration" : 148
+      }
+    } ]
+  },
+  "89bc2ad9c9a7370383cc3fc544960d86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8b2d9e897be38a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668774353992,
+        "stop" : 1668774357339,
+        "duration" : 3347
+      }
+    } ]
+  },
+  "d28048d31fbbcf9ec5bfd4234a07f01f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25fc99bbb446d183",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "time" : {
+        "start" : 1668774378708,
+        "stop" : 1668774389138,
+        "duration" : 10430
+      }
+    } ]
+  }
+}

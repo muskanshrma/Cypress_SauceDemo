@@ -1,0 +1,48 @@
+{
+  "uid" : "7d1c1a633e5aa0e5",
+  "name" : "Add multiple products to Cart and checkout",
+  "fullName" : ".Add multiple products to Cart and checkout",
+  "historyId" : "d28048d31fbbcf9ec5bfd4234a07f01f",
+  "time" : {
+    "start" : 1668773569922,
+    "stop" : 1668773576254,
+    "duration" : 6332
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "Add multiple products to Cart and checkout"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d1c1a633e5aa0e5.json",
+  "parameterValues" : [ ]
+}

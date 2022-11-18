@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "children" : [ {
+        "name" : "Add multiple products to Cart test",
+        "uid" : "e30a9b80fa5e69aa",
+        "parentUid" : "b6535fc2d992abd11d917fa44f9ecc88",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668774362234,
+          "stop" : 1668774372924,
+          "duration" : 10690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add multiple products to Cart and checkout",
+        "uid" : "25fc99bbb446d183",
+        "parentUid" : "b6535fc2d992abd11d917fa44f9ecc88",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668774378708,
+          "stop" : 1668774389138,
+          "duration" : 10430
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6535fc2d992abd11d917fa44f9ecc88"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

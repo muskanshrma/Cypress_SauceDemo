@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1668774053877' stop='1668774065209'>
+    <name></name>
+    <title></title>
+    <test-cases>
+        <test-case start='1668774053933' status='failed' stop='1668774065080'>
+            <name>Add multiple products to Cart test</name>
+            <title>Add multiple products to Cart test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.
+                    at Context.eval (https://www.saucedemo.com/__cypress/tests?p=cypress\integration\Tests\03_AddToCartTest.js:165:12)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

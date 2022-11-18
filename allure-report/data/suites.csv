@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Nov 18 17:56:18 IST 2022","Fri Nov 18 17:56:29 IST 2022","10430","","","","","Add multiple products to Cart and checkout","Add multiple products to Cart and checkout",""
+"passed","Fri Nov 18 17:55:53 IST 2022","Fri Nov 18 17:55:57 IST 2022","3347","","","","","Sort and Filter Products","Sort and Filter Products",""
+"passed","Fri Nov 18 17:56:34 IST 2022","Fri Nov 18 17:56:34 IST 2022","148","","Validate API response","","Validate API response","GET","GET",""
+"passed","Fri Nov 18 17:55:42 IST 2022","Fri Nov 18 17:55:47 IST 2022","4438","","","","","Login test","Login test",""
+"failed","Fri Nov 18 17:56:02 IST 2022","Fri Nov 18 17:56:12 IST 2022","10690","","","","","Add multiple products to Cart test","Add multiple products to Cart test",""

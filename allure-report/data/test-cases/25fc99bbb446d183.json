@@ -1,0 +1,116 @@
+{
+  "uid" : "25fc99bbb446d183",
+  "name" : "Add multiple products to Cart and checkout",
+  "fullName" : ".Add multiple products to Cart and checkout",
+  "historyId" : "d28048d31fbbcf9ec5bfd4234a07f01f",
+  "time" : {
+    "start" : 1668774378708,
+    "stop" : 1668774389138,
+    "duration" : 10430
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.\n                    at Context.eval (https://www.saucedemo.com/__cypress/tests?p=cypress\\integration\\Tests\\04_ChechkoutProductsTest.js:165:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : ""
+  }, {
+    "name" : "testMethod",
+    "value" : "Add multiple products to Cart and checkout"
+  }, {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa90bdc433d5d34",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "time" : {
+        "start" : 1668774212627,
+        "stop" : 1668774223823,
+        "duration" : 11196
+      }
+    }, {
+      "uid" : "b3d7ea4c773eb2ef",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "time" : {
+        "start" : 1668774070961,
+        "stop" : 1668774081680,
+        "duration" : 10719
+      }
+    }, {
+      "uid" : "ff7bbad96752dcb8",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "time" : {
+        "start" : 1668773851538,
+        "stop" : 1668773862315,
+        "duration" : 10777
+      }
+    }, {
+      "uid" : "59a175f31c71962",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 4000ms: Expected to find element: `//button[contains(@class,'btn_primary')]`, but never found it.",
+      "time" : {
+        "start" : 1668773701003,
+        "stop" : 1668773711653,
+        "duration" : 10650
+      }
+    }, {
+      "uid" : "7d1c1a633e5aa0e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773569922,
+        "stop" : 1668773576254,
+        "duration" : 6332
+      }
+    }, {
+      "uid" : "5af3becd418c8436",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773399229,
+        "stop" : 1668773406071,
+        "duration" : 6842
+      }
+    }, {
+      "uid" : "c50a9533d31de0d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668773272200,
+        "stop" : 1668773278695,
+        "duration" : 6495
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "25fc99bbb446d183.json",
+  "parameterValues" : [ ]
+}
